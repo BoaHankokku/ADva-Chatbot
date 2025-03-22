@@ -44,4 +44,6 @@ Follow the steps below to set up the ADva-Chatbot project on your local machine:
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. You can report issues, suggest improvements, or help fix bugs.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-%20-yellow)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%20-blue)
 
