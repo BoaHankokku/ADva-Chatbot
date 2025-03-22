@@ -44,6 +44,4 @@ Follow the steps below to set up the ADva-Chatbot project on your local machine:
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. You can report issues, suggest improvements, or help fix bugs.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
